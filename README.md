@@ -13,7 +13,7 @@
 
 ## 📡 TRANSMISSION INCOMING...
 
-**GHOST_PROTOCOL** is not just a website. It is a **Client-Side Privacy Terminal** designed for the modern digital operative. We provide military-grade encryption tools, real-time intelligence, and decentralized privacy protocols—all running locally in your browser.
+**GHOST_PROTOCOL** is not just a website. It is a **Client-Side Privacy Terminal** designed for the modern digital operative. We provide encryption tools, Intelligence, and decentralized privacy protocols—all running locally in your browser.
 
 > *"Data is free. Freedom is not. Fuel the signal."*
 
