@@ -15,7 +15,11 @@
 
 **GHOST_PROTOCOL** is not just a website. It is a **Client-Side Privacy Terminal** designed for the modern digital operative. We provide encryption tools, Intelligence, and decentralized privacy protocols—all running locally in your browser.
 
-> *"Data is free. Freedom is not. Fuel the signal."*
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=0AFF0A&center=true&vCenter=true&width=600&lines=Data+is+free.+Freedom+is+not.;Fuel+the+signal.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
